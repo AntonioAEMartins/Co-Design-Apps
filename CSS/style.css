@@ -1,0 +1,37 @@
+/*=================*/
+/*Quais são as Tags utilizadas em nosso Arquivos HTML?
+Header:
+- h1
+- h2
+- 
+Main:
+- p
+- a (imagens com href)
+- input (adicionar.html ; esta em conjunto com p)
+- ul / li
+- img
+Footer:
+- a (imagens com href)
+
+Resumindo: A gente uso função Pra Caralho
+*/
+/*=================*/
+/*
+A Separação de Classes será feita por categoria da página (Header, Main, Footer).
+E no caso do Footer acho que a gente tá bem tranquilo, porque todas as páginas são parecidas
+
+Agora algo que vai ter Classes especiais serão algumas tags dentro de Main
+*/
+/*=================*/
+
+h1 {
+    
+}
+
+p{
+
+}
+
+.round_button{
+
+}
