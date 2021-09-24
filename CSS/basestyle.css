@@ -33,6 +33,16 @@ h2{
 
 }
 
+.nome_cliente{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.alilnhamento_icones{
+    justify-content: space-between;
+    align-items: center;
+}
+
 .recuo{
     margin-left: 1.4rem;
 }
