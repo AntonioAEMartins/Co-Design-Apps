@@ -71,3 +71,7 @@ header{
     justify-content: center;
     margin:0;
 }
+
+.coluna_adicionar {
+    justify-content: space-between;
+}
