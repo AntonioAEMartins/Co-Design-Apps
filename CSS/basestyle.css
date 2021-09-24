@@ -15,6 +15,32 @@ header{
     align-items: center;
 }
 
+main{
+    display: flex;
+    margin-left: 1.5rem;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+
+.recuo{
+    margin-left: 1.4rem;
+}
+
+.bolinha{
+    list-style: disc;
+}
+
 .icon_menu{
     display: flex;
     position: absolute;
@@ -26,14 +52,6 @@ header{
     margin-left: 1em;
     margin-right: 1em;
     margin-bottom: 1em;
-}
-
-h1{
-    display: flex;
-    align-items: center;
-    font-size: 2rem;
-    font-weight: bold;
-    /*margin-left: 40%;*/
 }
 
 .coluna {
