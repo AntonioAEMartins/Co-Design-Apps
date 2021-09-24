@@ -114,6 +114,8 @@ header{
 }
 
 .icon_300_calendar{
+    align-items: center;
+    justify-content: center;
     height: 28rem;
     width: 42rem;
 }
