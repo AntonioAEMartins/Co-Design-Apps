@@ -149,10 +149,13 @@ header{
 
 .title_status{
     font-weight: bold;
-    font-size: 1rem;
+    font-size: 2rem;
     border: solid;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .text_status{
-
+    font-weight: 400;
+    font-size: 2rem;
 }
