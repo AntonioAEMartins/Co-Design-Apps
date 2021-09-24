@@ -33,14 +33,34 @@ h2{
 
 }
 
+footer{
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
+
 .nome_cliente{
     font-size: 1rem;
     font-weight: bold;
+
+}
+
+.ajuste_ul li{
+    margin: 1rem 0 1rem 0;
 }
 
 .alilnhamento_icones{
     justify-content: space-between;
     align-items: center;
+}
+.ajuste_coluna{
+    display: flex;
+    align-items: center;
+}
+
+.calendar1{
+    height: 10rem;
+    width: 10rem;
 }
 
 .recuo{
