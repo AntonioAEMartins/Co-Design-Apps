@@ -79,3 +79,13 @@ header{
 .coluna_espacamento {
     justify-content: space-between;
 }
+
+.icon_60 {
+    height: 3.5rem;
+    width: 3.5rem;
+}
+
+.icon_120 {
+    height: 8.5rem;
+    width: 8.5rem;
+}
