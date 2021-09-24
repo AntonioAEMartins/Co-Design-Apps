@@ -109,5 +109,10 @@ header{
 
 .icon_83{
     height: 6rem;
-    width:6rem;
+    width: 6rem;
+}
+
+.icon_300_calendar{
+    height: 28rem;
+    width: 42rem;
 }
