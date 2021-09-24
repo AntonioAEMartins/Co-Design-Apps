@@ -163,3 +163,10 @@ header{
     font-weight: 400;
     font-size: 2rem;
 }
+
+.alinhador_calendar{
+    display: flex;
+    position: inherit;
+    align-items: center;
+    justify-content: center;
+}
