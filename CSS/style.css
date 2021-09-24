@@ -53,8 +53,6 @@ header{
     margin-left: 1em;
     margin-right: 1em;
     margin-bottom: 1em;
-    height: 3.5rem;
-    width: 3.5rem;
 }
 
 .coluna {
@@ -80,9 +78,4 @@ header{
 
 .coluna_espacamento {
     justify-content: space-between;
-}
-
-.icon_60 {
-    height: 3.5rem;
-    width: 3.5rem;
 }
