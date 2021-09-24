@@ -98,5 +98,16 @@ header{
 }
 
 .icon_90 {
-    height: 
+    height: 6.5rem;
+    width: 6.5rem;
+}
+
+.icon_73{
+    height:5.7rem;
+    width: 5.7rem;
+}
+
+.icon_83{
+    height: 6rem;
+    width:6rem;
 }
