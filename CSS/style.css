@@ -19,6 +19,11 @@ header{
     justify-content: space-between;
     align-items: center;
 }
+
+.borda_icones{
+    margin: 1rem 1rem 1rem 1rem;
+
+}
 .ajuste_coluna{
     display: flex;
     align-items: center;
@@ -32,6 +37,7 @@ header{
 .calendario{
     height: 18rem;
     width: 18rem;
+    justify-content: center;
 }
 
 .recuo{
