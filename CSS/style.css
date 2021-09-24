@@ -147,6 +147,12 @@ header{
     margin-bottom: 1rem;
 }
 
+.title_status{
+    font-weight: bold;
+    font-size: 1rem;
+    border: solid;
+}
+
 .text_status{
-    
+
 }
