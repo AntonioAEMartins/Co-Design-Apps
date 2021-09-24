@@ -43,6 +43,10 @@ header{
     margin-left: 1.4rem;
 }
 
+.recuo_menor{
+    margin-left: 1rem;
+}
+
 .bolinha{
     list-style: disc;
 }
