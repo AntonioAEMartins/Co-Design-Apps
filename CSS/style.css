@@ -167,10 +167,11 @@ header{
     justify-content: center;
 }
 
-.text_border{
-    font-weight: bold;
-    font-size: 1.5rem;
-    border: solid;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
+.menu{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu span{
+    height: 15rem;
 }
