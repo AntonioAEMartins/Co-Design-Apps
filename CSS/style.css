@@ -30,8 +30,8 @@ header{
 }
 
 .calendar1{
-    height: 20rem;
-    width: 20rem;
+    height: 80%;
+    width: 80%;
 }
 
 .calendario{
@@ -184,7 +184,7 @@ header{
     margin-bottom: 1rem;
 }
 
-h2{
+.font__text{
     font-size: 3rem;
 }
 
