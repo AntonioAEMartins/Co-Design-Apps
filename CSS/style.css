@@ -79,6 +79,7 @@ header{
 }
 
 .coluna_espacamento {
+    align-items: center;
     justify-content: space-between;
 }
 
