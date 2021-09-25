@@ -172,8 +172,8 @@ header{
     flex-direction: column;
 }
 
-.menu span{
-    height: 15rem;
+.menu a:last-child{
+    padding-top: 20%;
 }
 
 .text_border{
