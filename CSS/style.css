@@ -191,3 +191,7 @@ header{
 .font_text {
     font-size:1.8rem;
 }
+
+.alinhar_calendario_e_lsita{
+    width: 40vw;
+}
