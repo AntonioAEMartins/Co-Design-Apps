@@ -6,11 +6,6 @@ header{
     border-bottom: 2px solid lightgray;
 }
 
-.nome_cliente{
-    font-size: 1rem;
-    font-weight: bold;
-}
-
 .ajuste_ul li{
     margin: 1rem 0 1rem 0;
 }
@@ -20,23 +15,9 @@ header{
     align-items: center;
 }
 
-.borda_icones{
-    margin: 1rem 1rem 1rem 1rem;
-
-}
-.ajuste_coluna{
-    display: flex;
-    align-items: center;
-}
-
 .calendar1{
     height: 80%;
     width: 80%;
-}
-
-.calendario{
-    height: 18rem;
-    width: 18rem;
 }
 
 .recuo_menor{
@@ -93,6 +74,11 @@ header{
     width: 3.5rem;
 }
 
+.icon_6090{
+    height: 3.5rem;
+    width: 6rem;
+}
+
 .icon_63 {
     height: 4rem;
     width: 4rem;
@@ -118,30 +104,15 @@ header{
     width: 12rem;
 }
 
-.icon_300_calendar{
-    align-items: center;
-    justify-content: center;
-    height: 28rem;
-    width: 42rem;
-}
-
 .icon_600{
     height: 32rem;
     width: 32rem;
-}
-
-.center_status{
-    display: flex;
-    position: inherit;
-    align-items: center;
-    justify-content: center;
 }
 
 .live_status{
     margin-top: 1rem;
 }
 .perfil_status{
-    margin-right: 1rem;
     margin-left: 7rem;
     margin-bottom: 1rem;
     margin-top: 1rem;
@@ -160,7 +131,7 @@ header{
     font-size: 1rem;
 }
 
-.alinhador_calendar{
+.alinhador{
     display: flex;
     position: inherit;
     align-items: center;
@@ -184,14 +155,38 @@ header{
     margin-bottom: 1rem;
 }
 
-.font__text{
-    font-size: 3rem;
-}
-
-.font_text {
-    font-size:1.8rem;
-}
-
 .alinhar_calendario_e_lsita{
     width: 40vw;
+}
+
+
+.title_text{
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.basic_text{
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin-left: 0.3rem;
+    margin-bottom: 0.3rem;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.list_text{
+    font-size: 0.85rem;
+    margin-left:0.3rem;
+}
+
+.list_text_big{
+    font-size: 1rem;
+    margin-left:0.3rem;
+}
+
+.recuo_especial{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
