@@ -149,7 +149,7 @@ header{
 
 .title_status{
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1rem;
     border: solid;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -157,7 +157,7 @@ header{
 
 .text_status{
     font-weight: 400;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .alinhador_calendar{
