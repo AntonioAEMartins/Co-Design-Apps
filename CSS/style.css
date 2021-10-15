@@ -195,3 +195,59 @@ header{
 .alinhar_calendario_e_lsita{
     width: 40vw;
 }
+
+.bg_main{
+    background-color:rgb(250,241,240)
+}
+
+.bg_main2{
+    background-color:#F4EBEA
+}
+
+.bg_vermelho{
+    background-color:#E0543F;
+}
+
+.azul{
+    color: #4D36DB;
+}
+
+.azul_claro{
+    color: #68CBF5;
+}
+
+.preto_main{
+    color: #212121
+}
+
+.preto_mid{
+    color: #3D3D3D;
+}
+
+.preto_fosco{
+    color: #595959;
+}
+
+.bg_roxo{
+    background-color: #AA81CC
+}
+
+.bg_roxo_claro{
+    background-color: #C394EA;
+}
+
+.bg_verde_1{
+    background-color: #9BDEBF;
+}
+
+.bg_verde_2{
+    background-color: #9EE1C2;
+}
+
+.bg_bege{
+    background-color: #F9F2D8
+}
+
+.bg_vermelho_claro{
+    background-color: #F23A59
+}
