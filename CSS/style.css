@@ -3,7 +3,7 @@ header{
     height: 5rem;
     justify-content: center;
     align-items: center;
-    border-bottom: 0.14rem solid lightgray;
+    border-bottom: 2px solid lightgray;
 }
 
 .ajuste_ul li{
@@ -194,7 +194,7 @@ header{
 /*====Difinição de Cores====*/
 /*Primeira Matiz*/
 .bg_main{
-    background-color:rgb(250,241,240);
+    background-color:#FAF1F0;
 }
 
 .bg_main2{
