@@ -192,7 +192,7 @@ header{
 }
 
 .bg_main{
-    background-color:#FAF1F0;
+    background-color:rgb(250,241,240);
 }
 
 .bg_main2{
@@ -212,7 +212,7 @@ header{
 }
 
 .preto_main{
-    color: #212121
+    color: #212121;
 }
 
 .preto_mid{
@@ -240,9 +240,9 @@ header{
 }
 
 .bg_bege{
-    background-color: #F9F2D8
+    background-color: #F9F2D8;
 }
 
 .bg_vermelho_claro{
-    background-color: #F23A59
+    background-color: #F23A59;
 }
