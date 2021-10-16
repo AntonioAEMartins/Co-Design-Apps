@@ -30,14 +30,14 @@ h1{
 
 h2{
     font-family: 'Libre Baskerville', serif;
-    font-size: 1.2rem;
+    font-size: 0.95rem;
     font-weight: bold;
 }
 
 footer{
     bottom: 0;
     width: 100%;
-    border-top: 2px solid lightgray;
+    border-top: 0.14rem solid lightgray;
 }
 
 input, textarea {
