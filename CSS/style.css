@@ -192,11 +192,11 @@ header{
 }
 
 .bg_main{
-    background-color:rgb(250,241,240)
+    background-color:rgb(250,241,240);
 }
 
 .bg_main2{
-    background-color:#F4EBEA
+    background-color:#F4EBEA;
 }
 
 .bg_vermelho{
@@ -212,7 +212,7 @@ header{
 }
 
 .preto_main{
-    color: #212121
+    color: #212121;
 }
 
 .preto_mid{
@@ -224,7 +224,7 @@ header{
 }
 
 .bg_roxo{
-    background-color: #AA81CC
+    background-color: #AA81CC;
 }
 
 .bg_roxo_claro{
@@ -240,9 +240,9 @@ header{
 }
 
 .bg_bege{
-    background-color: #F9F2D8
+    background-color: #F9F2D8;
 }
 
 .bg_vermelho_claro{
-    background-color: #F23A59
+    background-color: #F23A59;
 }
