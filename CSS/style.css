@@ -191,6 +191,8 @@ header{
     margin-bottom: 2rem;
 }
 
+/*====Difinição de Cores====*/
+/*Primeira Matiz*/
 .bg_main{
     background-color:rgb(250,241,240);
 }
@@ -198,19 +200,19 @@ header{
 .bg_main2{
     background-color:#F4EBEA;
 }
-
+/*Segunda Matiz*/
 .bg_vermelho{
     background-color:#E0543F;
 }
-
+/*Terceira Matiz*/
 .bg_azul{
     background-color: #4D36DB;
 }
-
+/*Quarta Matiz*/
 .bg_azul_claro{
     background-color: #68CBF5;
 }
-
+/*Quinta Matiz*/
 .preto_main{
     color: #212121;
 }
@@ -223,6 +225,8 @@ header{
     color: #595959;
 }
 
+/*====Difinição de Cores Alternativas====*/
+/*Primeira Matiz*/
 .bg_roxo{
     background-color: #AA81CC;
 }
@@ -230,7 +234,7 @@ header{
 .bg_roxo_claro{
     background-color: #C394EA;
 }
-
+/*Segunda Matiz*/
 .bg_verde_1{
     background-color: #9BDEBF;
 }
@@ -238,11 +242,21 @@ header{
 .bg_verde_2{
     background-color: #9EE1C2;
 }
-
+/*Terceira Matiz*/
 .bg_bege{
     background-color: #F9F2D8;
 }
-
+/*Quarta Matiz*/
+.preto_mid{
+    color: #3D3D3D;
+}
+/*Quinta Matiz*/
 .bg_vermelho_claro{
     background-color: #F23A59;
 }
+
+
+
+
+
+
