@@ -203,12 +203,12 @@ header{
     background-color:#E0543F;
 }
 
-.azul{
-    color: #4D36DB;
+.bg_azul{
+    background-color: #4D36DB;
 }
 
-.azul_claro{
-    color: #68CBF5;
+.bg_azul_claro{
+    background-color: #68CBF5;
 }
 
 .preto_main{
