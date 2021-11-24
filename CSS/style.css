@@ -8,8 +8,8 @@
 }
 
 .calendar1{
-    height: 80%;
-    width: 80%;
+    height: 85%;
+    width: 85%;
 }
 
 .recuo_menor{
@@ -130,6 +130,11 @@
     justify-content: center;
 }
 
+.subir{
+    display: flex;
+    margin-bottom: 20%;
+}
+
 .menu{
     display: flex;
     flex-direction: column;
@@ -153,9 +158,10 @@
 
 
 .title_text{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     margin-bottom: 0.5rem;
 }
+
 
 .basic_text{
     font-size: 0.85rem;
