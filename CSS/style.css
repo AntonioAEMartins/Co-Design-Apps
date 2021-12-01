@@ -7,6 +7,11 @@
     align-items: center;
 }
 
+.alinhamento_icones2{
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3rem;
+}
 .calendar1{
     height: 85%;
     width: 85%;
@@ -128,6 +133,7 @@
     position: inherit;
     align-items: center;
     justify-content: center;
+    width: 100%;
 }
 
 .subir{
