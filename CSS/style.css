@@ -7,6 +7,11 @@
     align-items: center;
 }
 
+.alinhamento_icones2{
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2.5rem;
+}
 .calendar1{
     height: 85%;
     width: 85%;
