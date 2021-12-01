@@ -128,6 +128,7 @@
     position: inherit;
     align-items: center;
     justify-content: center;
+    width: 100%;
 }
 
 .subir{
@@ -182,6 +183,8 @@
 .list_text_big{
     font-size: 1rem;
     margin-left:0.3rem;
+    width: 20%;
+
 }
 
 .recuo_especial{
